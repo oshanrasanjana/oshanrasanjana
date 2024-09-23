@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=oshanrasanjana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://github.com/oshanrasanjana/oshanDreamTech/blob/main/first.jpg)]
+[![](https://github.com/oshanrasanjana/oshanrasanjana/blob/main/first.jpg)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
